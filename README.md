@@ -31,7 +31,6 @@ Hi! I'm Komal, a passionate **Full Stack PHP Developer** specializing in **Larav
 
 - ✉️ Email: [komaljagyasi7@gmail.com](mailto:komaljagyasi7@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/komaljagyasi-a12135112](https://www.linkedin.com/in/komaljagyasi-a12135112)
-- 🌐 Portfolio: [https://KomalJagyasi-code.github.io](https://KomalJagyasi-code.github.io)
 
 ---
 
