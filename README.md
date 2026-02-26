@@ -1,6 +1,6 @@
-# 👩‍💻 Komal Jagyasi — Senior Laravel Developer
+# 👩‍💻 Komal Jagyasi — Full Stack PHP Laravel Developer
 
-Senior PHP Laravel Developer with 5+ years of experience building scalable web applications, enterprise platforms, and API-driven systems. Skilled in backend architecture, performance optimization, debugging production systems, and integrating complex third-party services. Known for writing clean, maintainable code and quickly adapting to existing codebases.
+Senior PHP Laravel Developer with 5+ years of experience building scalable web applications and API-driven systems. Skilled in backend architecture, performance optimization, debugging production systems, and integrating complex third-party services. Known for writing clean, maintainable code and quickly adapting to existing codebases.
 
 ---
 
@@ -27,13 +27,14 @@ Live: https://trivia.gamenow.com.pk | Stack: Laravel • MySQL • REST APIs | R
 > Developed a scalable trivia platform supporting themed quizzes, operator-specific leaderboards, and multi-channel integrations to drive engagement across multiple partners.
 
 #### Key Contributions: 
-Designed scalable database structure for multi-operator architecture
-Built APIs for quiz engine and leaderboard logic
-Optimized performance for real-time scoring scenarios
-Implemented modular architecture for operator customization
+Designed a scalable database architecture supporting multi-operator configurations
+Developed APIs for subscriber creation, updates, and status validation
+Optimized performance for real-time scoring and high-concurrency scenarios
+Implemented modular architecture enabling operator-specific customization
+Independently handled end-to-end implementation, from design to deployment
 
 #### Impact: 
-Enabled seamless onboarding of new operators
+Enabled seamless login of users
 Maintained smooth performance under concurrent gameplay
 
 ### 🏨 Unlock Dubai — Booking & Loyalty Platform 
@@ -45,10 +46,12 @@ Live: https://unlockdubai.com | Stack: CodeIgniter • MySQL • Cloudbeds API �
 > Developed a booking system for hotels and holiday homes with real-time availability and loyalty rewards integration.
 
 #### Key Contributions: 
-Integrated Cloudbeds API for live inventory + bookings
-Built loyalty redemption flows via OptCulture APIs
-Ensured data sync between booking and rewards systems
-Optimized queries for real-time availability response
+Optimized page response times, particularly for search result pages, improving overall performance
+Integrated Cloudbeds API for real-time inventory synchronization and booking processing
+Developed loyalty redemption workflows using OptCulture APIs
+Ensured seamless data synchronization between booking and rewards systems
+Implemented configurable tax and fee logic for dynamic pricing scenarios
+Optimized database queries to support real-time availability checks
 
 #### Impact: 
 Delivered seamless booking + rewards experience
@@ -63,13 +66,14 @@ Reduced booking inconsistencies via sync automation
 <img width="30%" height="50%" alt="image" src="https://github.com/user-attachments/assets/0dd43467-3eb3-47e6-ae03-5a88b92d7dee" />
 
 QA: https://live.bb.synigence.co/ | Stack: Laravel • Vue.js • Filament • MySQL • APIs | Role: Full Stack Developer
-> Built an online multilingual book platform supporting reading, audio playback, and Text-to-Speech with secure authentication and automated data syncing.
+> Building an online multilingual book platform supporting reading, audio playback, and Text-to-Speech with secure authentication.
 
 #### Key Contributions: 
-Implemented token-based authentication APIs
-Developed dynamic user management system
-Integrated TTS functionality for accessibility
-Built automated unsubscribe sync with external system
+Implemented secure token-based authentication APIs for user access control
+Developed an admin panel using Filament with role-based access and permission management
+Proposed and integrated Text-to-Speech functionality using TTSMaker to enhance accessibility
+Built automated synchronization for unsubscribe requests with external systems
+Designed multi-partner and multi-operator support to enable scalable platform integrations
 
 #### Impact: 
 Ensured real-time data consistency with client platform
@@ -94,17 +98,10 @@ Developed multilingual system with dynamic translation handling
 Implemented reporting system for platform analytics
 Built operator-specific CMS pages
 
-#### Impact: 
-Enabled platform expansion across multiple regions
-Reduced admin operational workload through centralized management panel
-Improved content discoverability via categorized logic
-
 #### Core Engineering Challenges Solved:
 Managed multi-tenant logic across countries + operators
 Ensured scalability for different subscriber groups
 Structured database relationships for operators → partners → countries hierarchy
-Built dynamic feature access based on user roles
-Optimized video listing queries for performance
 
 ### ⚽ Footballers Lives — Video Streaming Platform
 Live: https://live.fb-lives.com | Stack: Laravel • MySQL • REST APIs | Role: Backend Developer
@@ -117,7 +114,6 @@ Integrated externally hosted streaming sources
 Developed personalized watchlist logic
 
 #### Impact: 
-Improved content discoverability
 Enabled smooth streaming experience
 
 ---
